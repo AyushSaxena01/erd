@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="9k_aFxfkQmcx1xtWp85T">
-    <mxGraphModel dx="1750" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,9 +269,6 @@
         <mxCell id="2Ox2wM_hWhuu6U-dfrgm-164" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame;dx=10;whiteSpace=wrap;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="2Ox2wM_hWhuu6U-dfrgm-165">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Ox2wM_hWhuu6U-dfrgm-166" value="Works&lt;div&gt;With&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="500" y="125" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="2Ox2wM_hWhuu6U-dfrgm-168" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Ox2wM_hWhuu6U-dfrgm-166" target="2Ox2wM_hWhuu6U-dfrgm-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="255" as="sourcePoint" />
@@ -316,6 +313,15 @@
             <mxPoint x="620" y="100" as="sourcePoint" />
             <mxPoint x="670" y="50" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2Ox2wM_hWhuu6U-dfrgm-183" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="497.57359312880715" y="122.57359312880715" width="84.8528137423857" height="84.8528137423857" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ox2wM_hWhuu6U-dfrgm-166" value="Supplies" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="2Ox2wM_hWhuu6U-dfrgm-183">
+          <mxGeometry x="2.426406871192853" y="2.426406871192853" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ox2wM_hWhuu6U-dfrgm-180" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame;dx=6.77;whiteSpace=wrap;rotation=-45;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="2Ox2wM_hWhuu6U-dfrgm-183">
+          <mxGeometry x="12.426406871192853" y="12.426406871192853" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
